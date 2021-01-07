@@ -33,7 +33,7 @@ Siga o template fornecido.
 
 Se você encontrou alguma falha de segurança **não use as issues para reportar o
 bug**. Escreva o seu report diretamente para o endereço de e-mail
-`issuesdesegurana@sme.prefeitura.sp.gov.br
+`issuesdeseguranca@sme.prefeitura.sp.gov.br
 `. Ele será analisado, validado e corrigido de
 acordo com as necessidades. Pedimos que **não torne a falha pública** para
 segurança de todos que utilizam a plataforma em seu estado atual.
