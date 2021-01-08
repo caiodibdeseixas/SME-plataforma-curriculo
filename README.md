@@ -1,41 +1,22 @@
 
 # Estratégia de Transformação Digital e Governo Aberto na SME
 
-Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas.
+Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas. 
 
-A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. Com isso, pretendemos:
+A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. 
+Com isso, pretendemos: 
+- aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais; 
+- instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais; 
+- fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade; 
+- promover espaços e metodologias de colaboração entre governo, academia, sociedade civil e setor privado. 
 
-- aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais;
+O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf) é uma das ferramentas para operacionalização. Baseado em um modelo de contratação inspirado pelos movimentos ágil e de Software Craftsmanship, trabalhamos com equipes multidisciplinares para o desenvolvimento de produtos que beneficiam toda a comunidade escolar (técnicos da SME e DREs, gestores, professores, alunos e famílias) e concretizam os objetivos da Estratégia de Transformação Digital e Governo Aberto “Pátio Digital”.
 
-- instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais;
+# Conteúdo
 
-- fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade;
+1. [Sobre o Produto](#Sobre-o-Produto)
 
-- promover espaços e metodologias de colaboração entre governo, Academia, sociedade civil e setor privado.
-
-O Ateliê do Software ([http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf](http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf "http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1x/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf")) é uma das ferramentas para operacionalização. Baseado em um modelo de contratação inspirado pelos movimentos ágil e de Software Craftsmanship, trabalhamos com equipes multidisciplinares para o desenvolvimento de produtos que beneficiam toda a comunidade escolar (técnicos da SME e DREs, gestores, professores, alunos e famílias) e concretizam os objetivos da Estratégia de Transformação Digital e Governo Aberto “Pátio Digital”.
-
-# Currículo da Cidade
-
-Para os **professores**
-
-Que **precisam de facilidade de acesso ao material de apoio pra criação das aulas**
-
-O **Currículo da Cidade**
-
-É uma **plataforma web**
-
-Que **apresenta sequências de atividades que articulam objetivos e competências da Matriz de Saberes, aos Objetivos de Desenvolvimento Sustentável e outros materiais (percursos de formação, Joca, entre outros) são disponibilizados em área restrita para os educadores da rede**
-
-Diferentemente de **utilizar somente a versão impressa, com pouca interação entre os professores**
-
-O Nosso produto **garante apoio ao processo de colaboração entre os professores, além de ser uma fonte de sequências de atividades, percursos de estudo e formação, disciplinas eletivas e outros materiais didáticos para os professores. Além disso, os professores poderão atuar de maneira autoral, compartilhando os próprios projetos e sequências de aprendizagem.**
-
-**Conteúdo:**
-
-1. [Sobre o Time](#Sobre-o-Time)
-
-2. [Sobre o Produto](#Sobre-o-Produto)
+2. [Sobre o Time](#Sobre-o-Time)
 
 3. [Como surgiu](#Como-surgiu)
 
@@ -51,29 +32,23 @@ O Nosso produto **garante apoio ao processo de colaboração entre os professore
 
 9. [Instalação e Configuração](#Instalação-e-Configuração)
 
-----------
-
-## [](#sobre-o-time)Sobre o Time:
-
-| Papel | Titular | Suplente
-
-|--|--|--|
-
-| Product Owner | Heloisa Moraes e Lisandra Paes|  - |
-
-| Agente de Governança | @VitorFerragini | Gabriela Rowlands |
-
-| Gerente de Projeto | Aline Freitas | |
-
-| Scrum Master | Augusto Silva |  |
-
-| Designer de Serviços | @cintiafabi |@caiodibdeseixas |
-
-| Analista Programador | Rodolpho Azeredo |  |
-
 ## [](#sobre-o-produto)Sobre o Produto
 
-### [](#objetivos-de-negócio)Objetivos de Negócio
+Para os **professores**
+
+Que **precisam de facilidade de acesso ao material de apoio pra criação das aulas**
+
+O **Currículo da Cidade**
+
+É uma **plataforma web**
+
+Que **apresenta sequências de atividades que articulam objetivos e competências da Matriz de Saberes, aos Objetivos de Desenvolvimento Sustentável e outros materiais (percursos de formação, Joca, entre outros) são disponibilizados em área restrita para os educadores da rede**
+
+Diferentemente de **utilizar somente a versão impressa, com pouca interação entre os professores**
+
+O Nosso produto **garante apoio ao processo de colaboração entre os professores, além de ser uma fonte de sequências de atividades, percursos de estudo e formação, disciplinas eletivas e outros materiais didáticos para os professores. Além disso, os professores poderão atuar de maneira autoral, compartilhando os próprios projetos e sequências de aprendizagem.**
+
+## [](#objetivos-de-negócio)Objetivos de Negócio
 
 - Para o Ensino Fundamental, apresenta sequências de atividades que articulam objetivos de aprendizagem previstos em cada componente curricular às competências da Matriz de Saberes e aos Objetivos de Desenvolvimento Sustentável;
 
@@ -81,9 +56,11 @@ O Nosso produto **garante apoio ao processo de colaboração entre os professore
 
 - O Currículo da Cidade se torna um material vivo e dinâmico, para consulta, inspiração e aplicação em sala de aula.
 
-### [](#personas)Personas
+## [](#personas)Personas
 
-**Uma persona representa um usuário do sistema, descrevendo não só o seu papel, mas também suas necessidades específicas. Isto cria uma representação realística, auxiliando o time a descrever funcionalidades do ponto de vista de quem interagirá com o produto final**
+**Quem:**: professores
+**Características:**
+**Necessidades:**
 
 **Professores**
 
@@ -91,37 +68,23 @@ O Nosso produto **garante apoio ao processo de colaboração entre os professore
 
 - O que considera valioso: ter materiais diferentes articulados com o Currículo da Cidade para serem usados em suas aulas e ter acesso a uma plataforma para interagir com colegas da rede. Além disso, ter suas próprias sequências, projetos e outras produções cadastradas e divulgadas em uma plataforma institucional
 
-**Estudantes**
+**Quem:**: professores
+**Características:** querem ver projetos do TCA (Trabalho Colaborativo Autoral) cadastrados e interagir para realizar trocas de aprendizagens com outros estudantes da rede, no Ensino Fundamental e em algumas escolas do Ensino Médio. Já no Ensino Médio, há necessidade de compreender as possibilidades dos percursos formativos para que a opção de escolha seja aproveitada. Nesta etapa, também é uma necessidade a maior clareza das possibilidades de construção dos próprios projetos de vida
+**Necessidades:** ter seus projetos e soluções ouvidos e conhecidos pela rede e ter o link para suas próprias redes sociais para ampliar o protagonismo e visibilidade dos próprios estudantes. A participação ativa amplia o vínculo com a escola, professores e colegas. Também é importante garantirmos a segurança das informações postadas (lembrando que são crianças e adolescentes)
 
-- Necessidades/dores: ver projetos do TCA (Trabalho Colaborativo Autoral) cadastrados e interagir para realizar trocas de aprendizagens com outros estudantes da rede, no Ensino Fundamental e em algumas escolas do Ensino Médio.
+**Quem:**: comunidade
+**Características:** possuir material disponível para subsidiar pesquisadores, jornalistas e sociedade em geral, possibilitando o acesso aos materiais produzidos de maneira transparente e incentivando parcerias
+**Necessidades:** ter acesso aos materiais de uma rede que é referência e corresponder às políticas de transparência e compartilhamento de informação
 
-Já no Ensino Médio, há necessidade de compreender as possibilidades dos percursos formativos para que a opção de escolha seja aproveitada. Nesta etapa, também é uma necessidade a maior clareza das possibilidades de construção dos próprios projetos de vida.
+**Quem:**: coordenador da Unidade Escolar
+**Características:** precisam ter materiais de referência voltados para a formação dos professores visando a qualificação das práticas pedagógicas e garantir a articulação das atividades realizadas na unidade ao Currículo da Cidade
+**Necessidades:** ter acesso às produções dos professores da escola e da rede, acessar as diferentes diretrizes da rede e ter insumos para articular ações para articular ações pedagógicas dinâmicas e coerentes com os princípios do Currículo da Cidade
 
-- O que considera valioso: ter seus projetos e soluções ouvidos e conhecidos pela rede e ter o link para suas próprias redes sociais para ampliar o protagonismo e visibilidade dos próprios estudantes. A participação ativa amplia o vínculo com a escola, professores e colegas.
+**Quem:**: servidores da Secretaria Municipal de Educação
+**Características:** que a comunidade escolar tenha uma plataforma como referência para as possibilidades dos desdobramentos do Currículo da Cidade e que exista um lugar institucional para interação desses profissionais e estudantes
+**Necessidades:** que a comunidade escolar tenha espaço de colaboração entre si; que as práticas pedagógicas coerentes com o currículo da cidade estejam visíveis para toda rede; que a plataforma apoie a proposta curricular para possibilitar a sua continuidade, permeando as diferentes gestões municipais
 
-Também é importante garantirmos a segurança das informações postadas (lembrando que são crianças e adolescentes).
-
-**Comunidade**
-
-- Necessidades/dores: possuir material disponível para subsidiar pesquisadores, jornalistas e sociedade em geral, possibilitando o acesso aos materiais produzidos de maneira transparente e incentivando parcerias
-
-- O que considera valioso: ter acesso aos materiais de uma rede que é referência e corresponder às políticas de transparência e compartilhamento de informação
-
-**Coordenador da UE**
-
-- Necessidades/dores: precisam ter materiais de referência voltados para a formação dos professores visando a qualificação das práticas pedagógicas e garantir a articulação das atividades realizadas na unidade ao Currículo da Cidade
-
-- O que considera valioso: ter acesso às produções dos professores da escola e da rede, acessar as diferentes diretrizes da rede e ter insumos para articular ações para articular ações pedagógicas dinâmicas e coerentes com os princípios do Currículo da Cidade
-
-**Secretaria Municipal de Educação**
-
-- Necessidades/dores: que a comunidade escolar tenha uma plataforma como referência para as possibilidades dos desdobramentos do Currículo da Cidade e que exista um lugar institucional para interação desses profissionais e estudantes
-
-- O que considera valioso: que a comunidade escolar tenha espaço de colaboração entre si; que as práticas pedagógicas coerentes com o currículo da cidade estejam visíveis para toda rede; que a plataforma apoie a proposta curricular para possibilitar a sua continuidade, permeando as diferentes gestões municipais
-
-### [](#funcionalidades)Funcionalidades
-
-**O que precisa ter no produto para que tal persona alcance tal objetivo?**
+## [](#funcionalidades)Funcionalidades
 
 - Encontrar referências (sequências de atividades, percursos formativos e outros materiais) para subsidiar seu trabalho em sala de aula;
 
@@ -133,21 +96,31 @@ Também é importante garantirmos a segurança das informações postadas (lembr
 
 - Responder as consultas à rede criadas pela Secretaria/ NTC.
 
-### [](#roadmap)Roadmap
-
-**O Sequenciador de features ajuda a organizar e a visualizar as features e sua relação com os MVPs. Ele estrutura e planeja os lançamentos do produto, além do primeiro produto mínimo viável. Estimar esforço por amostragem.**
+## [](#roadmap)Roadmap
 
 - Tá na rede;
 
 - Novo currículo do Ensino Médio.
 
-## [](#como-surgiu)Como surgiu
+# [](#sobre-o-time)Sobre o Time:
 
-### [](#fase-de-descoberta)Fase de Descoberta:
+| Papel | Titular | Suplente  
+|--|--|--|  
+| Product Owner | Heloisa Moraes e Lisandra Paes |  |  
+| Agente de Governança | Vitor Ferragini | Gabriela Rowlands |  
+| Gerente de Projeto | Aline Freitas | |  
+| Scrum Master | Augusto Silva |  | 
+| Designer de Serviços | Caio Dib | |    
+| Analista UX/UI | Giovanna Zanettim |  |  
+| Analista Programador | Felipe Viana de Almeida |  |
+
+# [](#como-surgiu)Como surgiu
+
+## [](#fase-de-descoberta)Fase de Descoberta:
 
 [https://educacao.sme.prefeitura.sp.gov.br/wp-content/uploads/Portals/1/Files/52812.pdf](https://educacao.sme.prefeitura.sp.gov.br/wp-content/uploads/Portals/1/Files/52812.pdf)
 
-## [](#links-úteis)Links Úteis:
+# [](#links-úteis)Links Úteis:
 
 **Homologação:**
 
@@ -157,25 +130,17 @@ Também é importante garantirmos a segurança das informações postadas (lembr
 
 [https://curriculo.sme.prefeitura.sp.gov.br/](https://curriculo.sme.prefeitura.sp.gov.br/)
 
-## [](#comunicação)Comunicação:
+# [](#comunicação)Comunicação:
 
-Canal de comunicação
+| Canal de comunicação | Objetivos |
+|----------------------|-----------|
+| [Issues do Github](https://github.com/prefeiturasp/SME-PTRF/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
 
-Objetivos
+# [](#como-contribuir)Como contribuir
 
-[Issues do Github](https://github.com/prefeiturasp/SME-plataforma-curriculo/issues)
+Contribuições são **super bem vindas**! Se você tem vontade de construir o Currículo da Cidade conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md) onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir  nosso [código de conduta](./CODEOFCONDUCT.md).
 
-- Sugestão de novas funcionalidades
-
-- Reportar bugs
-
-- Discussões técnicas
-
-## [](#como-contribuir)Como contribuir
-
-Contribuições são **super bem vindas**! Se você tem vontade de construir o curriculo digital conosco, veja o nosso [guia de contribuição](https://github.com/prefeiturasp/SME/blob/master/docs/CONTRIBUTING.md) onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir nosso [código de conduta](https://github.com/prefeiturasp/SME/blob/master/docs/CODEOFCONDUCT.md).
-
-## [](#repositórios)Repositórios:
+# [](#repositórios)Repositórios:
 
 Trabalhos do TCA
 
@@ -191,7 +156,7 @@ Informar os repositórios de código que envolvem a solução:
 
 [https://github.com/prefeiturasp/SME-plataforma-curriculo-API](https://github.com/prefeiturasp/SME-plataforma-curriculo-API)
 
-## [](#instalação-e-configuração)Instalação e Configuração:
+# [](#instalação-e-configuração)Instalação e Configuração:
 
 ## Instalação Local (desenvolvimento)
 
